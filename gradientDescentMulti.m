@@ -1,4 +1,5 @@
 # Linear_regression_ml
+#code for gradientesent 
 function [theta, J_history] = gradientDescentMulti(x, y, theta, alpha, num_iters)
 %GRADIENTDESCENTMULTI Performs gradient descent to learn theta
 %   theta = GRADIENTDESCENTMULTI(x, y, theta, alpha, num_iters) updates theta by
